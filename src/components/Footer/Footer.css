@@ -1,0 +1,22 @@
+.h-footer {
+    background-color: rgba(250, 250, 250, 0.5);
+    color: black;
+    align-items: center;
+}
+
+.h-container {
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: var(--font);
+}
+
+.f-desc {
+    text-align: center;
+    row-gap: 1rem;
+}
+
+.footer-txt {
+    font-weight: bold;
+    font-size: large;
+}

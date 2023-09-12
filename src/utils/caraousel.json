@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Case Study One",
+    "desc": "The quick brown fox jumps over the lazy dog",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Case Study Two",
+    "desc": "The quick brown fox jumps over the lazy dog",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Case Study Three",
+    "desc": "The quick brown fox jumps over the lazy dog",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Case Study Four",
+    "desc": "The quick brown fox jumps over the lazy dog",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Case Study Five",
+    "desc": "The quick brown fox jumps over the lazy dog",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Case Study Six",
+    "desc": "The quick brown fox jumps over the lazy dog",
+    "image": "./r3.png"
+  }
+]
