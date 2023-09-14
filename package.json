@@ -1,12 +1,12 @@
 {
-  "name": "realestate",
+  "homepage": "https://hatim-the-dark-knight.github.io/pkfloy/",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hatim-the-dark-knight.github.io/pkfloy/",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
